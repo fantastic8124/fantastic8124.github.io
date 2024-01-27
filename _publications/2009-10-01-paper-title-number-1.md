@@ -21,7 +21,11 @@ Interactive Performance in Unprotected-turning tasks
     
 We performed a qualitative and quantitative examination of the agent’s probing process in the context of a typical unprotected left-turn interaction. The initial state of the two vehicles was based on the ambiguous right-of-way scenario obtained in Section II.B.
 
-![image](https://github.com/fantastic8124/fantastic8124.github.io/assets/63543931/213760a2-d508-4919-a633-f02ccc355bba)
+
+https://github.com/fantastic8124/fantastic8124.github.io/assets/63543931/69fae567-d8f8-4d0f-82d2-af4b38d02bfd
+
+
+
 
 
 
