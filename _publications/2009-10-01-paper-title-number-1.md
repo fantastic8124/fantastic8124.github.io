@@ -23,14 +23,6 @@ We performed a qualitative and quantitative examination of the agent’s probing
 
 <video width="320" height="240" controls>
   <source src="1.mp4" type="video/mp4">
-</video>
-
-
-https://github.com/fantastic8124/fantastic8124.github.io/assets/63543931/b21d152e-2f43-42ab-8cce-5762e7f36e62
-
-
-
-
 
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
