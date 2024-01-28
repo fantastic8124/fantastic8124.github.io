@@ -23,7 +23,6 @@ We performed a qualitative and quantitative examination of the agent’s probing
 
 <video width="320" height="240" controls>
   <source src="_publications/1.mp4" type="video/mp4">
-  Your browser does not support the video tag.
 </video>
 
 
