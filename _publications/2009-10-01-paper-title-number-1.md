@@ -23,7 +23,7 @@ We performed a qualitative and quantitative examination of the agent’s probing
 
 <video class="centered" width="100%" controls muted loop autoplay>
     <source
-        src="_publications/1.mp4"
+        src="../_publications/1.mp4"
         type="video/mp4" />
 </video>
 
