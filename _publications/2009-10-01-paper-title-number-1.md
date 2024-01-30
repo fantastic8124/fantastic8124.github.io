@@ -20,8 +20,8 @@ Existing AVs struggle to comprehend and apply common HV social norms, especially
 Interactive Performance in Unprotected-turning tasks
     
 We performed a qualitative and quantitative examination of the agent’s probing process in the context of a typical unprotected left-turn interaction. The initial state of the two vehicles was based on the ambiguous right-of-way scenario obtained in Section II.B.
-
-<video class="centered" width="100%" controls muted loop autoplay>
+1
+<video class="centered" width="50%" controls muted loop autoplay>
     <source
         src="../_publications/1.mp4"
         type="video/mp4" />
