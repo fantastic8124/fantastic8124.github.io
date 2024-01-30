@@ -1,4 +1,4 @@
-![image](https://github.com/fantastic8124/fantastic8124.github.io/assets/63543931/1f43b152-aae4-41f1-88ae-c5c575d42d7c)---
+---
 title: "Towards Proactive-Aware Autonomous Driving:
 A Reinforcement Learning Approach Utilizing Expert Priors during Unprotected Turns
 "
