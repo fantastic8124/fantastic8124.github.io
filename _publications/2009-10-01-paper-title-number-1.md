@@ -23,8 +23,10 @@ We performed a qualitative and quantitative examination of the agent’s probing
 1
 ![1](https://github.com/fantastic8124/fantastic8124.github.io/assets/63543931/a9fac432-eac1-4ed1-8b91-2fccc6ec6b8c)
 
-<p align="center">
-  <img src="https://github.com/fantastic8124/fantastic8124.github.io/assets/63543931/a9fac432-eac1-4ed1-8b91-2fccc6ec6b8c" alt="描述文本" width="200" />
+<p align="left">
+  <img src="https://github.com/fantastic8124/fantastic8124.github.io/assets/63543931/a9fac432-eac1-4ed1-8b91-2fccc6ec6b8c" alt="描述文本" width="50%" />
 </p>
-
+<p align="right">
+  <img src="https://github.com/fantastic8124/fantastic8124.github.io/assets/63543931/a9fac432-eac1-4ed1-8b91-2fccc6ec6b8c" alt="描述文本" width="50%" />
+</p>
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
