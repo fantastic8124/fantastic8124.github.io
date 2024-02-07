@@ -3,7 +3,7 @@ title: "Towards Proactive-Aware Autonomous Driving:
 A Reinforcement Learning Approach Utilizing Expert Priors during Unprotected Turns
 "
 collection: publications
-permalink: /publication/Towards Proactive-Aware Autonomous Driving
+permalink: /publication/Towards-Proactive-Aware Autonomous Driving
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-02-09
 venue: 'Journal 1'
