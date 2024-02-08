@@ -10,7 +10,9 @@ date: 2024-02-09
 <p>Jialin Fan<sup>1,2</sup>, Ying Ni<sup>1,2</sup>, Donghu Zhao<sup>1,2</sup>, and Peng Hang<sup>1,2</sup></p>
 <p><sup>1</sup> Department of Transportation Engineering, Tongji University, Shanghai, China</p>
 <p><sup>2</sup> Key Laboratory of Road and Traffic Engineering, Ministry of Education, Shanghai, China</p>
-
+<p style="font-size:small; line-height:1;">Jialin Fan<sup style="font-size:smaller;">1,2</sup>, Ying Ni<sup style="font-size:smaller;">1,2</sup>, Donghu Zhao<sup style="font-size:smaller;">1,2</sup>, and Peng Hang<sup style="font-size:smaller;">1,2</sup></p>
+<p style="font-size:small; line-height:1;"><sup style="font-size:smaller;">1</sup> Department of Transportation Engineering, Tongji University, Shanghai, China</p>
+<p style="font-size:small; line-height:1;"><sup style="font-size:smaller;">2</sup> Key Laboratory of Road and Traffic Engineering, Ministry of Education, Shanghai, China</p>
 ![image](https://github.com/fantastic8124/fantastic8124.github.io/assets/63543931/6c3eb436-11e2-4ad9-921e-1abd945bd316)
 Existing AVs struggle to comprehend and apply common HV social norms, especially the driving skills exhibited by adept human drivers in ambiguous right-of-way scenarios. In this study, we put forth a novel framework to leverage expert priors for proactive-aware decision-making in ambiguous right-of-way, merging data-driven reinforcement learning (RL) with parameterized modeling. The proposed method is intensively validated in different driving tasks with unprotected turning scenarios, the results demonstrate that the AV can accelerate the convergence of the interaction by consistent probing and decision updates. We present demos in the following sections.
 
