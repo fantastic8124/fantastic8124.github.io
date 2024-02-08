@@ -1,4 +1,4 @@
----
+![image](https://github.com/fantastic8124/fantastic8124.github.io/assets/63543931/5a918afa-f0b8-4f7c-8336-352efd9bf5a2)---
 title: "Towards Proactive-Aware Autonomous Driving:
 A Reinforcement Learning Approach Utilizing Expert Priors during Unprotected Turns
 "
@@ -33,6 +33,35 @@ We performed a qualitative and quantitative examination of the agent’s probing
   </figure>
 </div>
 
+ <div align="center"><strong>Interaction with HVs of Different Driving Styles</strong></div>
+![image](https://github.com/fantastic8124/fantastic8124.github.io/assets/63543931/96be819b-d6a9-4a8a-acb2-4e2f840c1606)
+It's worth noting that when faced with aggressive HVs, AV demonstrates a lower likelihood of choosing to probe and gaining right-of-way advantages. When facing relatively conservative interaction objects, AV has a higher probability of completing the turn ahead of time.
+<div style="display: flex; align-items: flex-start;">
+  <figure>
+    <img src="https://github.com/fantastic8124/fantastic8124.github.io/assets/63543931/39b0a499-4a56-4c22-83b4-9b9bc07a2cc5
+" alt="图片1描述" style="width: 95%;" margin-bottom: 0;/>
+    <figcaption style="text-align: center;">Interaction with Aggressive HVs</figcaption>
+  </figure>
+  <figure>
+    <img src="https://github.com/fantastic8124/fantastic8124.github.io/assets/63543931/74a2e65a-d6cd-47d8-9402-e0e910e335e1
+" alt="图片2描述" style="width: 95%;" margin-bottom: 0;/>
+    <figcaption style="text-align: center;">Interaction with Conservative HVs</figcaption>
+  </figure>
+</div>
 
-
+ <div align="center"><strong>Interaction in Facing Different Ambiguities of Right-of-way</strong></div>
+ ![image](https://github.com/fantastic8124/fantastic8124.github.io/assets/63543931/bdc207b3-1190-4fc0-a540-ce81c16d75c2)
+  In facing different ambiguities of right-of-way, AV with the proposed method can take distinct actions, highlighting the importance of autonomous generation of this active driving behavior instead of reliance on manually coded policies. 
+<div style="display: flex; align-items: flex-start;">
+  <figure>
+    <img src="https://github.com/fantastic8124/fantastic8124.github.io/assets/63543931/1ac839b1-b3d7-490b-ad5c-322dc76d2778
+" alt="图片1描述" style="width: 95%;" margin-bottom: 0;/>
+    <figcaption style="text-align: center;">Interaction in Ambiguous Right-of-way.</figcaption>
+  </figure>
+  <figure>
+    <img src="https://github.com/fantastic8124/fantastic8124.github.io/assets/63543931/763476e4-c004-4d2d-b9b5-67458e31db0d
+" alt="图片2描述" style="width: 95%;" margin-bottom: 0;/>
+    <figcaption style="text-align: center;">Interaction in Clear Right-of-way.</figcaption>
+  </figure>
+</div>
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
