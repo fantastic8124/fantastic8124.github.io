@@ -22,11 +22,13 @@ Existing AVs struggle to comprehend and apply common HV social norms, especially
 We performed a qualitative and quantitative examination of the agent’s probing process in the context of a typical unprotected left-turn interaction. The initial state of the two vehicles was based on the ambiguous right-of-way scenario obtained in Section II.B.
 <div style="display: flex; align-items: flex-start;">
   <figure>
-    <img src="https://github.com/fantastic8124/fantastic8124.github.io/assets/63543931/a9fac432-eac1-4ed1-8b91-2fccc6ec6b8c" alt="图片1描述" style="width: 95%;" margin-bottom: 0;/>
+    <img src="!https://github.com/fantastic8124/fantastic8124.github.io/assets/63543931/2ce3fd6e-b07a-4b0c-8356-b6c44558d8df
+" alt="图片1描述" style="width: 95%;" margin-bottom: 0;/>
     <figcaption style="text-align: center;">Interactive Performance of The Proposed Strategy</figcaption>
   </figure>
   <figure>
-    <img src="https://github.com/fantastic8124/fantastic8124.github.io/assets/63543931/a9fac432-eac1-4ed1-8b91-2fccc6ec6b8c" alt="图片2描述" style="width: 95%;" margin-bottom: 0;/>
+    <img src="!https://github.com/fantastic8124/fantastic8124.github.io/assets/63543931/80a908fa-e08a-4b0b-b85e-2a96c29544da
+" alt="图片2描述" style="width: 95%;" margin-bottom: 0;/>
     <figcaption style="text-align: center;">Interactive Performance of The Baseline Strategy (PPO)</figcaption>
   </figure>
 </div>
