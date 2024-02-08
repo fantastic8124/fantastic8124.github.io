@@ -7,10 +7,6 @@ permalink: /publication/TPAAD
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-02-09
 ---
-Jialin Fan1,2, Ying Ni1,2, Donghu Zhao1,2, and Peng Hang1,2
-1 Department of Transportation Engineering, Tongji University, Shanghai, China
-2 Key Laboratory of Road and Traffic Engineering, Ministry of Education, Shanghai, China
-
 <p>Jialin Fan<sup>1,2</sup>, Ying Ni<sup>1,2</sup>, Donghu Zhao<sup>1,2</sup>, and Peng Hang<sup>1,2</sup></p>
 <p><sup>1</sup> Department of Transportation Engineering, Tongji University, Shanghai, China</p>
 <p><sup>2</sup> Key Laboratory of Road and Traffic Engineering, Ministry of Education, Shanghai, China</p>
