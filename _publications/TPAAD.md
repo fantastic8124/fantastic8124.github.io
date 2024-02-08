@@ -48,11 +48,11 @@ We performed a qualitative and quantitative examination of the agent’s probing
 It's worth noting that when faced with aggressive HVs, AV demonstrates a lower likelihood of choosing to probe and gaining right-of-way advantages. When facing relatively conservative interaction objects, AV has a higher probability of completing the turn ahead of time.
 <div style="display: flex; align-items: flex-start;">
   <figure>
-    <img src="https://github.com/fantastic8124/fantastic8124.github.io/assets/63543931/39b0a499-4a56-4c22-83b4-9b9bc07a2cc5" alt="图片1描述" style="width: 95%;" margin-bottom: 0;/>
+    <img src="https://github.com/fantastic8124/fantastic8124.github.io/assets/63543931/6b0f1c08-dd3e-460c-8f9d-448d42f13b4d" alt="图片1描述" style="width: 95%;" margin-bottom: 0;/>
     <figcaption style="text-align: center;">Interaction with Aggressive HVs</figcaption>
   </figure>
   <figure>
-    <img src="https://github.com/fantastic8124/fantastic8124.github.io/assets/63543931/74a2e65a-d6cd-47d8-9402-e0e910e335e1" alt="图片2描述" style="width: 95%;" margin-bottom: 0;/>
+    <img src="https://github.com/fantastic8124/fantastic8124.github.io/assets/63543931/84dde73c-781f-493a-a28e-62c47b9ff692" alt="图片2描述" style="width: 95%;" margin-bottom: 0;/>
     <figcaption style="text-align: center;">Interaction with Conservative HVs</figcaption>
   </figure>
 </div>
