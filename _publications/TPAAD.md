@@ -59,4 +59,3 @@ It's worth noting that when faced with aggressive HVs, AV demonstrates a lower l
   </figure>
 </div>
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
