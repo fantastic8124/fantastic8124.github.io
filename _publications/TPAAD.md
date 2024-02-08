@@ -16,7 +16,9 @@ Jialin Fan1,2, Ying Ni1,2, Donghu Zhao1,2, and Peng Hang1,2
 
 ![image](https://github.com/fantastic8124/fantastic8124.github.io/assets/63543931/6c3eb436-11e2-4ad9-921e-1abd945bd316)
 Existing AVs struggle to comprehend and apply common HV social norms, especially the driving skills exhibited by adept human drivers in ambiguous right-of-way scenarios. In this study, we put forth a novel framework to leverage expert priors for proactive-aware decision-making in ambiguous right-of-way, merging data-driven reinforcement learning (RL) with parameterized modeling. The proposed method is intensively validated in different driving tasks with unprotected turning scenarios, the results demonstrate that the AV can accelerate the convergence of the interaction by consistent probing and decision updates. We present demos in the following sections.
-
+ <div align="center"><strong>Interactive Performance in Unprotected-turning tasks</strong></div>
+ ![image](https://github.com/fantastic8124/fantastic8124.github.io/assets/63543931/bdc207b3-1190-4fc0-a540-ce81c16d75c2)
+We performed a qualitative and quantitative examination of the agent’s probing process in the context of a typical unprotected left-turn interaction. The initial state of the two vehicles was based on the ambiguous right-of-way scenario obtained in Section II.B.
 <div style="display: flex; justify-content: space-around; align-items: flex-start;">
   <figure style="margin: 0 10px;">
     <img src="https://github.com/fantastic8124/fantastic8124.github.io/assets/63543931/426ece3f-58fd-4ab1-868c-449f1acc78ff" alt="图片1描述" style="width: 95%; margin-bottom: 0;" />
@@ -27,21 +29,6 @@ Existing AVs struggle to comprehend and apply common HV social norms, especially
     <figcaption style="text-align: center; margin-top: 5px;">Interactive Performance of The Baseline Strategy (PPO)</figcaption>
   </figure>
 </div>
-
- <div align="center"><strong>Interactive Performance in Unprotected-turning tasks</strong></div>
- ![image](https://github.com/fantastic8124/fantastic8124.github.io/assets/63543931/bdc207b3-1190-4fc0-a540-ce81c16d75c2)
-We performed a qualitative and quantitative examination of the agent’s probing process in the context of a typical unprotected left-turn interaction. The initial state of the two vehicles was based on the ambiguous right-of-way scenario obtained in Section II.B.
-<div style="display: flex; align-items: flex-start;">
-  <figure>
-    <img src="https://github.com/fantastic8124/fantastic8124.github.io/assets/63543931/2ce3fd6e-b07a-4b0c-8356-b6c44558d8df" alt="图片1描述" style="width: 95%;" margin-bottom: 0;/>
-    <figcaption style="text-align: center;">Interactive Performance of The Proposed Strategy</figcaption>
-  </figure>
-  <figure>
-    <img src="https://github.com/fantastic8124/fantastic8124.github.io/assets/63543931/c3cbf324-eea5-4ae0-ad7c-38e794939c7b" alt="图片2描述" style="width: 95%;" margin-bottom: 0;/>
-    <figcaption style="text-align: center;">Interactive Performance of The Baseline Strategy (PPO)</figcaption>
-  </figure>
-</div>
-
 
  <div align="center"><strong>Interaction with HVs of Different Driving Styles</strong></div>
 ![image](https://github.com/fantastic8124/fantastic8124.github.io/assets/63543931/96be819b-d6a9-4a8a-acb2-4e2f840c1606)
