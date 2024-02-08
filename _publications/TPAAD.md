@@ -26,7 +26,7 @@ We performed a qualitative and quantitative examination of the agent’s probing
     <figcaption style="text-align: center; margin-top: 5px;">Interactive Performance of The Proposed Strategy</figcaption>
   </figure>
   <figure style="margin: 0 10px;">
-    <img src="https://github.com/fantastic8124/fantastic8124.github.io/assets/63543931/a9fac432-eac1-4ed1-8b91-2fccc6ec6b8c" alt="图片2描述" style="width: 95%; margin-bottom: 0;" />
+    <img src="https://github.com/fantastic8124/fantastic8124.github.io/assets/63543931/941d594d-09ca-4f6d-8fb6-52092f9c816e" alt="图片2描述" style="width: 95%; margin-bottom: 0;" />
     <figcaption style="text-align: center; margin-top: 5px;">Interactive Performance of The Baseline Strategy (PPO)</figcaption>
   </figure>
 </div>
