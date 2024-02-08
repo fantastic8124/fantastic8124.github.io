@@ -48,14 +48,14 @@ It's worth noting that when faced with aggressive HVs, AV demonstrates a lower l
  <div align="center"><strong>Interaction in Facing Different Ambiguities of Right-of-way</strong></div>
  ![image](https://github.com/fantastic8124/fantastic8124.github.io/assets/63543931/bdc207b3-1190-4fc0-a540-ce81c16d75c2)
   In facing different ambiguities of right-of-way, AV with the proposed method can take distinct actions, highlighting the importance of autonomous generation of this active driving behavior instead of reliance on manually coded policies. 
-<div style="display: flex; align-items: flex-start;">
-  <figure>
-    <img src="https://github.com/fantastic8124/fantastic8124.github.io/assets/63543931/e8731323-7f9c-49de-9afb-034fc8b63391" alt="图片1描述" style="width: 95%;" margin-bottom: 0;/>
-    <figcaption style="text-align: center;">Interaction in Ambiguous Right-of-way.</figcaption>
+<div style="display: flex; justify-content: space-around; align-items: flex-start;">
+  <figure style="margin: 0 10px;">
+    <img src="https://github.com/fantastic8124/fantastic8124.github.io/assets/63543931/e8731323-7f9c-49de-9afb-034fc8b63391" alt="图片1描述" style="width: 95%; margin-bottom: 0;" />
+    <figcaption style="text-align: center; margin-top: 5px;">Interaction in Ambiguous Right-of-way.</figcaption>
   </figure>
-  <figure>
-    <img src="https://github.com/fantastic8124/fantastic8124.github.io/assets/63543931/e32e9280-43fb-49f3-9cd3-0dbde4ff9194" alt="图片2描述" style="width: 95%;" margin-bottom: 0;/>
-    <figcaption style="text-align: center;">Interaction in Clear Right-of-way.</figcaption>
+  <figure style="margin: 0 10px;">
+    <img src="https://github.com/fantastic8124/fantastic8124.github.io/assets/63543931/e32e9280-43fb-49f3-9cd3-0dbde4ff9194" alt="图片2描述" style="width: 95%; margin-bottom: 0;" />
+    <figcaption style="text-align: center; margin-top: 5px;">Interaction in Clear Right-of-way.</figcaption>
   </figure>
 </div>
 
