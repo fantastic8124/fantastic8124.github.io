@@ -37,11 +37,11 @@ We performed a qualitative and quantitative examination of the agent’s probing
     <figcaption style="text-align: center;">Interactive Performance of The Proposed Strategy</figcaption>
   </figure>
   <figure>
-    <img src="https://github.com/fantastic8124/fantastic8124.github.io/assets/63543931/63690999-9708-4239-885f-5205add9fda9" alt="图片2描述" style="width: 95%;" margin-bottom: 0;/>
+    <img src="https://github.com/fantastic8124/fantastic8124.github.io/assets/63543931/c3cbf324-eea5-4ae0-ad7c-38e794939c7b" alt="图片2描述" style="width: 95%;" margin-bottom: 0;/>
     <figcaption style="text-align: center;">Interactive Performance of The Baseline Strategy (PPO)</figcaption>
   </figure>
 </div>
-![1](https://github.com/fantastic8124/fantastic8124.github.io/assets/63543931/63690999-9708-4239-885f-5205add9fda9)
+
 
  <div align="center"><strong>Interaction with HVs of Different Driving Styles</strong></div>
 ![image](https://github.com/fantastic8124/fantastic8124.github.io/assets/63543931/96be819b-d6a9-4a8a-acb2-4e2f840c1606)
