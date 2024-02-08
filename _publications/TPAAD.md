@@ -19,7 +19,7 @@ Existing AVs struggle to comprehend and apply common HV social norms, especially
 
 <div style="display: flex; justify-content: space-around; align-items: flex-start;">
   <figure style="margin: 0 10px;">
-    <img src="https://github.com/fantastic8124/fantastic8124.github.io/assets/63543931/a9fac432-eac1-4ed1-8b91-2fccc6ec6b8c" alt="图片1描述" style="width: 95%; margin-bottom: 0;" />
+    <img src="https://github.com/fantastic8124/fantastic8124.github.io/assets/63543931/bdc207b3-1190-4fc0-a540-ce81c16d75c2" alt="图片1描述" style="width: 95%; margin-bottom: 0;" />
     <figcaption style="text-align: center; margin-top: 5px;">Interactive Performance of The Proposed Strategy</figcaption>
   </figure>
   <figure style="margin: 0 10px;">
