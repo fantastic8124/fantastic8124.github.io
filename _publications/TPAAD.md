@@ -16,8 +16,8 @@ Jialin Fan1,2, Ying Ni1,2, Donghu Zhao1,2, and Peng Hang1,2
 
 ![image](https://github.com/fantastic8124/fantastic8124.github.io/assets/63543931/6c3eb436-11e2-4ad9-921e-1abd945bd316)
 Existing AVs struggle to comprehend and apply common HV social norms, especially the driving skills exhibited by adept human drivers in ambiguous right-of-way scenarios. In this study, we put forth a novel framework to leverage expert priors for proactive-aware decision-making in ambiguous right-of-way, merging data-driven reinforcement learning (RL) with parameterized modeling. The proposed method is intensively validated in different driving tasks with unprotected turning scenarios, the results demonstrate that the AV can accelerate the convergence of the interaction by consistent probing and decision updates. We present demos in the following sections.
-
-Interactive Performance in Unprotected-turning tasks
+ 
+ <div class="section-title">Interactive Performance in Unprotected-turning tasks</div>
     
 We performed a qualitative and quantitative examination of the agent’s probing process in the context of a typical unprotected left-turn interaction. The initial state of the two vehicles was based on the ambiguous right-of-way scenario obtained in Section II.B.
 <div style="display: flex; justify-content: space-around; align-items: flex-start;">
@@ -30,9 +30,7 @@ We performed a qualitative and quantitative examination of the agent’s probing
     <figcaption style="text-align: center;">Interactive Performance of The Baseline Strategy (PPO)</figcaption>
   </figure>
 </div>
-<!-- <div>
-  <img src="https://github.com/fantastic8124/fantastic8124.github.io/assets/63543931/a9fac432-eac1-4ed1-8b91-2fccc6ec6b8c" alt="图片1描述" style="width: 48%; margin-right: 2%;" />
-  <img src="https://github.com/fantastic8124/fantastic8124.github.io/assets/63543931/a9fac432-eac1-4ed1-8b91-2fccc6ec6b8c" alt="图片2描述" style="width: 48%;" />
-</div> -->
+
+
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
