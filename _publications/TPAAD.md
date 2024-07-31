@@ -69,7 +69,7 @@ It's worth noting that when faced with aggressive HVs, AV demonstrates a lower l
   </figure>
 </div>
 
- <div align="center"><strong>human-in-loop experiments</strong></div>
+ <div align="center"><strong>Human-in-loop experiments</strong></div>
  ![image](https://github.com/fantastic8124/fantastic8124.github.io/assets/63543931/bdc207b3-1190-4fc0-a540-ce81c16d75c2)
   With our strategy, AV can interact reasonably with human-driven through vehicles, demonstrating proper safety and anthropomorphism. 
 <div style="display: flex; justify-content: space-around; align-items: flex-start;">
