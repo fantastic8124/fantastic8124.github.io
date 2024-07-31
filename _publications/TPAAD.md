@@ -78,7 +78,7 @@ It's worth noting that when faced with aggressive HVs, AV demonstrates a lower l
     <figcaption style="text-align: center; margin-top: 5px;"> The AV controlled by the proposed strategy from the view of human-driver (obtains the right of way).</figcaption>
   </figure>
   <figure style="margin: 0 10px;">
-    <img src="https://github.com/fantastic8124/fantastic8124.github.io/assets/63543931/e32e9280-43fb-49f3-9cd3-0dbde4ff9194" alt="图片2描述" style="width: 95%; margin-bottom: 0;" />
+    <img src="![av-rush](https://github.com/user-attachments/assets/7149b6b8-8b63-44d9-82c6-a4ce08d39b89)" alt="图片2描述" style="width: 95%; margin-bottom: 0;" />
     <figcaption style="text-align: center; margin-top: 5px;"> The AV controlled by the proposed strategy from the view of human-driver (lost the right of way).</figcaption>
   </figure>
 </div>
