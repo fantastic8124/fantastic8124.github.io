@@ -55,3 +55,31 @@ It's worth noting that when faced with aggressive HVs, AV demonstrates a lower l
   </figure>
 </div>
 
+ <div align="center"><strong>Interaction Performance in Generalization Scenarios (inD dataset)</strong></div>
+ ![image](https://github.com/fantastic8124/fantastic8124.github.io/assets/63543931/bdc207b3-1190-4fc0-a540-ce81c16d75c2)
+  Our method exhibits robust stability across diverse scenarios, showcasing the application of our method in varied and challenging environments. 
+<div style="display: flex; justify-content: space-around; align-items: flex-start;">
+  <figure style="margin: 0 10px;">
+    <img src="https://github.com/fantastic8124/fantastic8124.github.io/assets/63543931/e8731323-7f9c-49de-9afb-034fc8b63391" alt="图片1描述" style="width: 95%; margin-bottom: 0;" />
+    <figcaption style="text-align: center; margin-top: 5px;"> Interaction Performance in Generalization Scenarios: Scene #2 in inD dataset.</figcaption>
+  </figure>
+  <figure style="margin: 0 10px;">
+    <img src="https://github.com/fantastic8124/fantastic8124.github.io/assets/63543931/e32e9280-43fb-49f3-9cd3-0dbde4ff9194" alt="图片2描述" style="width: 95%; margin-bottom: 0;" />
+    <figcaption style="text-align: center; margin-top: 5px;">Interaction Performance in Generalization Scenarios: Scene #4 in inD dataset.</figcaption>
+  </figure>
+</div>
+
+ <div align="center"><strong>human-in-loop experiments</strong></div>
+ ![image](https://github.com/fantastic8124/fantastic8124.github.io/assets/63543931/bdc207b3-1190-4fc0-a540-ce81c16d75c2)
+  With our strategy, AV can interact reasonably with human-driven through vehicles, demonstrating proper safety and anthropomorphism. 
+<div style="display: flex; justify-content: space-around; align-items: flex-start;">
+  <figure style="margin: 0 10px;">
+    <img src="https://github.com/fantastic8124/fantastic8124.github.io/assets/63543931/e8731323-7f9c-49de-9afb-034fc8b63391" alt="图片1描述" style="width: 95%; margin-bottom: 0;" />
+    <figcaption style="text-align: center; margin-top: 5px;"> The AV controlled by the proposed strategy from the view of human-driver (obtains the right of way).</figcaption>
+  </figure>
+  <figure style="margin: 0 10px;">
+    <img src="https://github.com/fantastic8124/fantastic8124.github.io/assets/63543931/e32e9280-43fb-49f3-9cd3-0dbde4ff9194" alt="图片2描述" style="width: 95%; margin-bottom: 0;" />
+    <figcaption style="text-align: center; margin-top: 5px;"> The AV controlled by the proposed strategy from the view of human-driver (lost the right of way).</figcaption>
+  </figure>
+</div>
+
