@@ -74,7 +74,7 @@ It's worth noting that when faced with aggressive HVs, AV demonstrates a lower l
   With our strategy, AV can interact reasonably with human-driven through vehicles, demonstrating proper safety and anthropomorphism. 
 <div style="display: flex; justify-content: space-around; align-items: flex-start;">
   <figure style="margin: 0 10px;">
-    <img src="https://github.com/fantastic8124/fantastic8124.github.io/assets/63543931/e8731323-7f9c-49de-9afb-034fc8b63391" alt="HIL test" style="width: 95%; margin-bottom: 0;" />
+    <img src="https://github.com/user-attachments/assets/d0e3c2e2-5e76-48ee-bc48-900a07d4c199" alt="HIL test" style="width: 95%; margin-bottom: 0;" />
     <figcaption style="text-align: center; margin-top: 5px;"> The AV controlled by the proposed strategy from the view of human-driver (obtains the right of way).</figcaption>
   </figure>
   <figure style="margin: 0 10px;">
