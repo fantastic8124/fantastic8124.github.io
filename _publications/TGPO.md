@@ -1,0 +1,12 @@
+---
+title: "Learning to Model Diverse Interactive Traffic with Driving Tendency-Guided Policy Optimization"
+collection: publications
+permalink: /publication/TGPO
+excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+date: 2025-02-01
+---
+<p style="font-size:small; line-height:1;">Jialin Fan<sup style="font-size:smaller;">1,2</sup>, Ying Ni<sup style="font-size:smaller;">1,2</sup>, Yuhao Yang<sup style="font-size:smaller;">1,2</sup>,  Wentao Zheng<sup style="font-size:smaller;">1,2</sup>,  Jie Sun<sup style="font-size:smaller;">1,2</sup>, and Jian Sun<sup style="font-size:smaller;">1,2</sup></p>
+<p style="font-size:small; line-height:1;"><sup style="font-size:smaller;">1</sup> Department of Transportation Engineering, Tongji University, Shanghai, China</p>
+<p style="font-size:small; line-height:1;"><sup style="font-size:smaller;">2</sup> Key Laboratory of Road and Traffic Engineering, Ministry of Education, Shanghai, China</p>
+
+The safe deployment of autonomous vehicles (AVs) into real-world traffic requires robust interaction with human drivers exhibiting heterogeneous behavioral tendencies, spanning from rational cooperation to adversarial aggression. Existing simulation frameworks often lack the capacity to systematically model such behavioral diversity, limiting their applicability for rigorous AV evaluation. To address this challenge, we propose a multi-agent reinforcement learning framework that generates dynamically controllable traffic through Tendency-Guided Policy Optimization (TGPO). Central to TGPO is the Adversary-Rationality-Tendency (ART), a continuous hyperparameter that enables fine-grained control over the spectrum of driving behaviors by fusing separately learned adversarial and rational value functions. Furthermore, we design an ART-guided policy network incorporating multi-head mechanisms to resolve high-dimensional multi-agent observations, adaptively prioritizing context features aligned with assigned driving tendencies. Extensive experiments across urban and highway scenarios demonstrate that TGPO generates traffic flows with enhanced behavioral controllability and diversity. The proposed method provides a scalable solution for simulating realistic driver interactions, thereby facilitating the development of AV systems capable of handling complex real-world corner cases.
