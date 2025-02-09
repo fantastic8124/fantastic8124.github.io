@@ -2,8 +2,9 @@
 title: "Understanding bus passengers' vibrational discomfort based on graphical modelling: a field experiment"
 collection: publications
 permalink: /publication/BPVD
-excerpt: 'Published in International Journal of Vehicle Noise and Vibration (10.1504/IJVNV.2024.10064435)'
+excerpt: '10.1504/IJVNV.2024.10064435'
 date: 2024-11-20
+venue: 'International Journal of Vehicle Noise and Vibration'
 ---
 Minghui Xie, Jialin Fan, Sen Wei and Yuanqing Wang
 
