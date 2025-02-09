@@ -2,7 +2,6 @@
 title: "Navigating Uncertainty: An Approach to Integrate Human Probing Strategy into Autonomous Vehicle Decision-Making"
 collection: publications
 permalink: /publication/TRB23
-excerpt: 'Presented in Transportation Research Board Annual Meeting (TRB 2024)'
 date: 2024-01-01
 venue: 'Transportation Research Board Annual Meeting (TRB 2024)'
 ---
