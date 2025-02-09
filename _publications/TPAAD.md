@@ -4,8 +4,9 @@ A Reinforcement Learning Approach Utilizing Expert Priors during Unprotected Tur
 "
 collection: publications
 permalink: /publication/TPAAD
-excerpt: 'Published in IEEE Transactions on Intelligent Transportation Systems （DOI: 10.1109/TITS.2024.3520589）'
+excerpt: 'DOI: 10.1109/TITS.2024.3520589'
 date: 2024-02-09
+venue: 'IEEE Transactions on Intelligent Transportation Systems'
 ---
 <p style="font-size:small; line-height:1;">Jialin Fan<sup style="font-size:smaller;">1,2</sup>, Ying Ni<sup style="font-size:smaller;">1,2</sup>, Donghu Zhao<sup style="font-size:smaller;">1,2</sup>, Peng Hang<sup style="font-size:smaller;">1,2</sup>, and Jian Sun<sup style="font-size:smaller;">1,2</sup></p>
 <p style="font-size:small; line-height:1;"><sup style="font-size:smaller;">1</sup> Department of Transportation Engineering, Tongji University, Shanghai, China</p>
