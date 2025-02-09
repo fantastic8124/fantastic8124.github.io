@@ -27,4 +27,4 @@ To validate the capability of TGPO in generating diverse and controllable drivin
 </div>
 
 
-More video demos are currently being produced and will be launched before February 10, 2025
+<strong>More video demos are currently being produced and will be launched before February 10, 2025
