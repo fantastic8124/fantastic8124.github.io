@@ -17,7 +17,7 @@ Education
 
 Awards
 ======
-* Outstanding graduates from Shaanxi Province (2022.07)
+* Outstanding graduates from Shaanxi Province, China (2022.07)
 * National scholarship
   * 2018.12
   * 2020.12
