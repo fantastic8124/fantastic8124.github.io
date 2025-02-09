@@ -4,7 +4,6 @@ A Reinforcement Learning Approach Utilizing Expert Priors during Unprotected Tur
 "
 collection: publications
 permalink: /publication/TPAAD
-excerpt: 'DOI: 10.1109/TITS.2024.3520589'
 date: 2024-02-09
 venue: 'IEEE Transactions on Intelligent Transportation Systems (DOI: 10.1109/TITS.2024.3520589)'
 ---
