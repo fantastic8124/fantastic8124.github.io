@@ -25,6 +25,16 @@ To validate the capability of TGPO in generating diverse and controllable drivin
     <figcaption style="text-align: center; margin-top: 5px;">Scenario 1: Roundabout Negotiation.</figcaption>
   </figure>
 </div>
+<div style="display: flex; justify-content: space-around; align-items: flex-start;">
+  <figure style="margin: 0 10px;">
+    <img src="https://github.com/user-attachments/assets/7e62f44b-2460-4b14-8c95-28cf9a652cf6" alt="Proposed" style="width: 95%; margin-bottom: 0;" />
+    <figcaption style="text-align: center; margin-top: 5px;">Scenario 2: T-Junction Conflict.</figcaption>
+  </figure>
+  <figure style="margin: 0 10px;">
+    <img src="https://github.com/user-attachments/assets/bd4e9d9f-05a2-44bd-ab58-3f4b7fd06c91" alt="Baseline" style="width: 95%; margin-bottom: 0;" />
+    <figcaption style="text-align: center; margin-top: 5px;">Scenario 2: T-Junction Conflict.</figcaption>
+  </figure>
+</div>
 
 
 <strong>More video demos are currently being produced and will be launched before February 10, 2025
