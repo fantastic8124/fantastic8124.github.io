@@ -18,23 +18,30 @@ To validate the capability of TGPO in generating diverse and controllable drivin
 <div style="display: flex; justify-content: space-around; align-items: flex-start;">
   <figure style="margin: 0 10px;">
     <img src="https://github.com/user-attachments/assets/ac634ed4-0645-4807-addf-c91d58966c4b" alt="Proposed" style="width: 95%; margin-bottom: 0;" />
-    <figcaption style="text-align: center; margin-top: 5px;">Scenario 1: Roundabout Negotiation.</figcaption>
+    <figcaption style="text-align: center; margin-top: 5px;">Scenario 1: Roundabout Negotiation #1.</figcaption>
   </figure>
   <figure style="margin: 0 10px;">
     <img src="https://github.com/user-attachments/assets/18f91f1e-5ef0-46ad-9948-553f5984480a" alt="Baseline" style="width: 95%; margin-bottom: 0;" />
-    <figcaption style="text-align: center; margin-top: 5px;">Scenario 1: Roundabout Negotiation.</figcaption>
+    <figcaption style="text-align: center; margin-top: 5px;">Scenario 1: Roundabout Negotiation #2.</figcaption>
   </figure>
 </div>
 <div style="display: flex; justify-content: space-around; align-items: flex-start;">
   <figure style="margin: 0 10px;">
     <img src="https://github.com/user-attachments/assets/7e62f44b-2460-4b14-8c95-28cf9a652cf6" alt="Proposed" style="width: 95%; margin-bottom: 0;" />
-    <figcaption style="text-align: center; margin-top: 5px;">Scenario 2: T-Junction Conflict.</figcaption>
+    <figcaption style="text-align: center; margin-top: 5px;">Scenario 2: T-Junction Conflict #1.</figcaption>
   </figure>
   <figure style="margin: 0 10px;">
     <img src="https://github.com/user-attachments/assets/bd4e9d9f-05a2-44bd-ab58-3f4b7fd06c91" alt="Baseline" style="width: 95%; margin-bottom: 0;" />
-    <figcaption style="text-align: center; margin-top: 5px;">Scenario 2: T-Junction Conflict.</figcaption>
+    <figcaption style="text-align: center; margin-top: 5px;">Scenario 2: T-Junction Conflict #2.</figcaption>
   </figure>
 </div>
-
-
-<strong>More video demos are currently being produced and will be launched before February 10, 2025
+<div style="display: flex; justify-content: space-around; align-items: flex-start;">
+  <figure style="margin: 0 10px;">
+    <img src="https://github.com/user-attachments/assets/998f2cb6-2fec-47ea-8194-fb02307d1558" alt="Proposed" style="width: 95%; margin-bottom: 0;" />
+    <figcaption style="text-align: center; margin-top: 5px;">Scenario 3: Unprotected Turn #1.</figcaption>
+  </figure>
+  <figure style="margin: 0 10px;">
+    <img src="https://github.com/user-attachments/assets/9f992da7-1518-4f12-b056-458717b2d71d" alt="Baseline" style="width: 95%; margin-bottom: 0;" />
+    <figcaption style="text-align: center; margin-top: 5px;">Scenario 3: Unprotected Turn #2.</figcaption>
+  </figure>
+</div>
