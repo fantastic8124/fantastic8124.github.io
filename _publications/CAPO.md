@@ -20,7 +20,6 @@ Safety-critical scenarios are of significant value for testing and validating au
  
 ![image](https://github.com/user-attachments/assets/65821f71-26c4-4833-9c23-0435f3b68752)
 
-
 <div align="center"><strong>Closed-Loop Test with CAPO</strong></div>
 
 <div style="display: flex; justify-content: space-around; align-items: flex-start;">
