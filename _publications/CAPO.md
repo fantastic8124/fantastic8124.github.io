@@ -14,9 +14,13 @@ Safety-critical scenarios are of significant value for testing and validating au
 
  <div align="center"><strong>Training Performance</strong></div>
 
- ![image](https://github.com/user-attachments/assets/e5b2b85d-25b7-48b8-8bf2-99c6d3db9aa6)
+![image](https://github.com/user-attachments/assets/2aafd6af-3321-4510-ad3b-e921fc551d92)
 
- <div align="center"><strong>Closed-Loop Test with CAPO</strong></div>
+ <div align="center"><strong>Risk Distribution of CAPO Generated Scenarios</strong></div>
+![image](https://github.com/user-attachments/assets/d40c8cf5-85b1-418d-87ed-79ae82b8b12c)
+
+<div align="center"><strong>Closed-Loop Test with CAPO</strong></div>
+
 <div style="display: flex; justify-content: space-around; align-items: flex-start;">
   <figure style="margin: 0 10px;">
     <img src="https://github.com/user-attachments/assets/bffd69f9-bcc0-4aad-a65f-d8f062a4d4af" alt="Proposed" style="width: 95%; margin-bottom: 0;" />
@@ -24,7 +28,19 @@ Safety-critical scenarios are of significant value for testing and validating au
   </figure>
   <figure style="margin: 0 10px;">
     <img src="https://github.com/user-attachments/assets/a05d4e2b-5e3a-4a57-a7a1-1e21ff33047f" alt="Baseline" style="width: 95%; margin-bottom: 0;" />
-    <figcaption style="text-align: center; margin-top: 5px;">Scenario 1: Unprotected Left-Turn Scenario(DV-IPPO) #2.</figcaption>
+    <figcaption style="text-align: center; margin-top: 5px;">Scenario 1: Unprotected Left-Turn Scenario(ADV-IPPO) #2.</figcaption>
   </figure>
 </div>
+<div style="display: flex; justify-content: space-around; align-items: flex-start;">
+  <figure style="margin: 0 10px;">
+    <img src="https://github.com/user-attachments/assets/7f4e2faa-407e-47c9-8e43-1b80bf7a0e08" alt="Proposed" style="width: 95%; margin-bottom: 0;" />
+    <figcaption style="text-align: center; margin-top: 5px;">Scenario 2: Cross-Conflict Scenario(CAPO) #1.</figcaption>
+  </figure>
+  <figure style="margin: 0 10px;">
+    <img src="https://github.com/user-attachments/assets/1c3c1e0e-bebc-4bfc-b848-a275d47a41b0" alt="Baseline" style="width: 95%; margin-bottom: 0;" />
+    <figcaption style="text-align: center; margin-top: 5px;">Scenario 2: Cross-Conflict Scenario(ADV-IPPO) #2.</figcaption>
+  </figure>
+</div>
+
+
 
