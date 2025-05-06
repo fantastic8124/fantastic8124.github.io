@@ -17,6 +17,7 @@ Safety-critical scenarios are of significant value for testing and validating au
 ![image](https://github.com/user-attachments/assets/2aafd6af-3321-4510-ad3b-e921fc551d92)
 
  <div align="center"><strong>Risk Distribution of CAPO Generated Scenarios</strong></div>
+ 
 ![image](https://github.com/user-attachments/assets/d40c8cf5-85b1-418d-87ed-79ae82b8b12c)
 
 <div align="center"><strong>Closed-Loop Test with CAPO</strong></div>
