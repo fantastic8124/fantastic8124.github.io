@@ -8,6 +8,7 @@ venue: '(Submit) to the 28th IEEE International Conference on Intelligent Transp
 <p style="font-size:small; line-height:1;">Ying Ni<sup style="font-size:smaller;">1,2</sup>, Siying Li<sup style="font-size:smaller;">1,2</sup>,  Jialin Fan<sup style="font-size:smaller;">1,2</sup></p>
 <p style="font-size:small; line-height:1;"><sup style="font-size:smaller;">1</sup> Department of Transportation Engineering, Tongji University, Shanghai, China</p>
 <p style="font-size:small; line-height:1;"><sup style="font-size:smaller;">2</sup> Key Laboratory of Road and Traffic Engineering, Ministry of Education, Shanghai, China</p>
+
 ![image](https://github.com/user-attachments/assets/83cf6032-6304-4947-9f8f-502ed463b207)
 
 The rapid deployment of autonomous vehicles necessitates robust hazard detection systems, yet existing methods struggle to detect subtle spatiotemporal cues in hazardous vehicle-vulnerable road user (VRU) interactions.
