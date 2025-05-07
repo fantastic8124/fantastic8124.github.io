@@ -25,23 +25,41 @@ Safety-critical scenarios are of significant value for testing and validating au
 <div style="display: flex; justify-content: space-around; align-items: flex-start;">
   <figure style="margin: 0 10px;">
     <img src="https://github.com/user-attachments/assets/bffd69f9-bcc0-4aad-a65f-d8f062a4d4af" alt="Proposed" style="width: 95%; margin-bottom: 0;" />
-    <figcaption style="text-align: center; margin-top: 5px;">Scenario 1: Unprotected Left-Turn Scenario(CAPO) #1.</figcaption>
+    <figcaption style="text-align: center; margin-top: 5px;">Scenario 1: Unprotected Left-Turn Scenario(CAPO).</figcaption>
   </figure>
   <figure style="margin: 0 10px;">
     <img src="https://github.com/user-attachments/assets/a05d4e2b-5e3a-4a57-a7a1-1e21ff33047f" alt="Baseline" style="width: 95%; margin-bottom: 0;" />
-    <figcaption style="text-align: center; margin-top: 5px;">Scenario 1: Unprotected Left-Turn Scenario(ADV-IPPO) #2.</figcaption>
+    <figcaption style="text-align: center; margin-top: 5px;">Scenario 1: Unprotected Left-Turn Scenario(ADV-IPPO).</figcaption>
   </figure>
 </div>
 <div style="display: flex; justify-content: space-around; align-items: flex-start;">
   <figure style="margin: 0 10px;">
     <img src="https://github.com/user-attachments/assets/7f4e2faa-407e-47c9-8e43-1b80bf7a0e08" alt="Proposed" style="width: 95%; margin-bottom: 0;" />
-    <figcaption style="text-align: center; margin-top: 5px;">Scenario 2: Cross-Conflict Scenario(CAPO) #1.</figcaption>
+    <figcaption style="text-align: center; margin-top: 5px;">Scenario 2: Cross-Conflict Scenario(CAPO).</figcaption>
   </figure>
   <figure style="margin: 0 10px;">
     <img src="https://github.com/user-attachments/assets/1c3c1e0e-bebc-4bfc-b848-a275d47a41b0" alt="Baseline" style="width: 95%; margin-bottom: 0;" />
-    <figcaption style="text-align: center; margin-top: 5px;">Scenario 2: Cross-Conflict Scenario(ADV-IPPO) #2.</figcaption>
+    <figcaption style="text-align: center; margin-top: 5px;">Scenario 2: Cross-Conflict Scenario(ADV-IPPO).</figcaption>
   </figure>
 </div>
-
-
+<div style="display: flex; justify-content: space-around; align-items: flex-start;">
+  <figure style="margin: 0 10px;">
+    <img src="https://github.com/user-attachments/assets/23cfe613-81e9-41fe-8148-0b05ecab010f" alt="Proposed" style="width: 95%; margin-bottom: 0;" />
+    <figcaption style="text-align: center; margin-top: 5px;">Scenario 3: Turn Cut-In Scenario(CAPO).</figcaption>
+  </figure>
+  <figure style="margin: 0 10px;">
+    <img src="https://github.com/user-attachments/assets/fc17eddf-b34d-4350-8d3d-0c3d9f12e4cd" alt="Baseline" style="width: 95%; margin-bottom: 0;" />
+    <figcaption style="text-align: center; margin-top: 5px;">Scenario 3: Turn Cut-In Scenario(ADV-IPPO).</figcaption>
+  </figure>
+</div>
+<div style="display: flex; justify-content: space-around; align-items: flex-start;">
+  <figure style="margin: 0 10px;">
+    <img src="https://github.com/user-attachments/assets/95876afc-fb83-43cc-bad9-1e93897296ae" alt="Proposed" style="width: 95%; margin-bottom: 0;" />
+    <figcaption style="text-align: center; margin-top: 5px;">Scenario 4: Oncoming Head-On Scenario(CAPO).</figcaption>
+  </figure>
+  <figure style="margin: 0 10px;">
+    <img src="https://github.com/user-attachments/assets/f720d6ee-554a-4ac1-8040-7aaac655556d" alt="Baseline" style="width: 95%; margin-bottom: 0;" />
+    <figcaption style="text-align: center; margin-top: 5px;">Scenario 4: Oncoming Head-On Scenario(ADV-IPPO).</figcaption>
+  </figure>
+</div>
 
