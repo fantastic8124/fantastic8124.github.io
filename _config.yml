@@ -214,7 +214,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: false
+      comments: true
   # _portfolio
   - scope:
       path: ""
