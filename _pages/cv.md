@@ -32,6 +32,7 @@ Publications
 
 Reviewer
 ======
+* IEEE Transactions on Vehicular Technology
 * Journal of Field Robotics
 * Automotive Innovation
 * IEEE International Conference on Intelligent Transportation Systems
