@@ -3,7 +3,7 @@ title: "Learning to Model Diverse Interactive Traffic with Driving Tendency-Guid
 collection: publications
 permalink: /publication/TGPO
 date: 2025-02-01
-venue: 'IEEE INTELLIGENT VEHICLES SYMPOSIUM (IV 2025)'
+venue: 'IEEE INTELLIGENT VEHICLES SYMPOSIUM (IV)'
 ---
 <p style="font-size:small; line-height:1;">Jialin Fan<sup style="font-size:smaller;">1,2</sup>, Ying Ni<sup style="font-size:smaller;">1,2</sup>, Yuhao Yang<sup style="font-size:smaller;">1,2</sup>,  Wentao Zheng<sup style="font-size:smaller;">1,2</sup>,  Jie Sun<sup style="font-size:smaller;">1,2</sup>, and Jian Sun<sup style="font-size:smaller;">1,2</sup></p>
 <p style="font-size:small; line-height:1;"><sup style="font-size:smaller;">1</sup> Department of Transportation Engineering, Tongji University, Shanghai, China</p>
