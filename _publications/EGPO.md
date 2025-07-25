@@ -39,7 +39,7 @@ Extensive experiments conducted in both urban and highway scenarios demonstrate 
 
 <div style="display: flex; justify-content: space-around; align-items: flex-start;">
   <figure style="margin: 0 10px;">
-    <img src="(https://github.com/user-attachments/assets/7a35eb0f-4a2c-4524-83de-6ce10ee28a28" alt="Proposed" style="width: 95%; margin-bottom: 0;" />
+    <img src="https://github.com/user-attachments/assets/b479b66b-e9d5-4c63-bf3e-37a27a98acbb" alt="Proposed" style="width: 95%; margin-bottom: 0;" />
     <figcaption style="text-align: center; margin-top: 5px;">Scenario 3: 0_36_straight_straight_39.</figcaption>
   </figure>
   <figure style="margin: 0 10px;">
