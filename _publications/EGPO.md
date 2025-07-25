@@ -11,7 +11,7 @@ venue: '(submit) Transportation Research Part C: Emerging Technologies'
 
 <div style="display: flex; justify-content: space-around; align-items: flex-start;">
   <figure style="margin: 0 10px;">
-    <img src="https://github.com/user-attachments/assets/33be9222-39a9-4e58-ba55-a43bb7bd33d6" alt="Proposed" style="width: 95%; margin-bottom: 0;" />
+    <img src="https://github.com/user-attachments/assets/9bdcb231-ca15-4f7a-a0cb-a9cb93279124" alt="Proposed" style="width: 95%; margin-bottom: 0;" />
     <figcaption style="text-align: center; margin-top: 5px;">Vaniila MARL.</figcaption>
   </figure>
   <figure style="margin: 0 10px;">
@@ -19,7 +19,6 @@ venue: '(submit) Transportation Research Part C: Emerging Technologies'
     <figcaption style="text-align: center; margin-top: 5px;">EGPO.</figcaption>
   </figure>
 </div>
-
 
 The safe deployment of autonomous vehicles (AVs) into real-world traffic requires robust interaction with human drivers exhibiting heterogeneous behavioral tendencies, spanning from rational cooperation to adversarial aggression. Existing methods often lack the capacity to systematically model such behavioral diversity, limiting their applicability for rigorous evaluation of AV. 
 To address this challenge, we propose a multi-agent reinforcement learning (MARL) framework that generates diverse interactive traffic through Estimation-Guided Policy Optimization (EGPO). Central to EGPO is the Equilibrium Value Estimation (EVE), a learnable hyperparameter that weights the outputs of the rational value function and the adversarial value function, reconstructing the policy's estimation of the expected reward. Notably, EVE is globally updated using meta-learning during policy learning. Furthermore, an EVE-guided policy network is used to feature multi-head architectures that efficiently process high-dimensional multi-agent observations while dynamically prioritizing context-specific features aligned with the learned EVEs.
@@ -30,7 +29,7 @@ Extensive experiments conducted in both urban and highway scenarios demonstrate 
 
 <div style="display: flex; justify-content: space-around; align-items: flex-start;">
   <figure style="margin: 0 10px;">
-    <img src="https://github.com/user-attachments/assets/a703189a-f076-42c3-b769-a8013c709151" alt="Proposed" style="width: 95%; margin-bottom: 0;" />
+    <img src="https://github.com/user-attachments/assets/ed216edf-0b2d-4ba4-962c-45c656c25c54" alt="Proposed" style="width: 95%; margin-bottom: 0;" />
     <figcaption style="text-align: center; margin-top: 5px;">Scenario 1: 1521cutin85.</figcaption>
   </figure>
   <figure style="margin: 0 10px;">
