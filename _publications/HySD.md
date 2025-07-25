@@ -3,7 +3,7 @@ title: "Toward Generalizable Traffic Simulation via Hybrid Knowledge Distillatio
 collection: publications
 permalink: /publication/HySD
 date: 2025-05-01
-venue: '(Submit) to the 28th IEEE International Conference on Intelligent Transportation Systems (ITSC 2025)'
+venue: '28th IEEE International Conference on Intelligent Transportation Systems (ITSC 2025)'
 ---
 <p style="font-size:small; line-height:1;">Yuhao Yang<sup style="font-size:smaller;">1,2</sup>, Jie Sun<sup style="font-size:smaller;">1,2</sup>, Jialin Fan<sup style="font-size:smaller;">1,2</sup>, and Jian Sun<sup style="font-size:smaller;">1,2</sup></p>
 <p style="font-size:small; line-height:1;"><sup style="font-size:smaller;">1</sup> Department of Transportation Engineering, Tongji University, Shanghai, China</p>
