@@ -3,7 +3,7 @@ title: "VRU-Centric Hazardous Scenario Detection via Monocular Spatiotemporal Fe
 collection: publications
 permalink: /publication/VRUHI
 date: 2025-05-01
-venue: '(Submit) to the 28th IEEE International Conference on Intelligent Transportation Systems (ITSC 2025)'
+venue: '28th IEEE International Conference on Intelligent Transportation Systems (ITSC 2025)'
 ---
 <p style="font-size:small; line-height:1;">Ying Ni<sup style="font-size:smaller;">1,2</sup>, Siying Li<sup style="font-size:smaller;">1,2</sup>,  Jialin Fan<sup style="font-size:smaller;">1,2</sup></p>
 <p style="font-size:small; line-height:1;"><sup style="font-size:smaller;">1</sup> Department of Transportation Engineering, Tongji University, Shanghai, China</p>
