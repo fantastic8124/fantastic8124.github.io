@@ -1,3 +1,4 @@
+---
 title: "Optimizing Multi-agent Behavior for Interactive Autonomous Driving with Equilibrium Value Estimation"
 collection: publications
 permalink: /publication/EGPO
