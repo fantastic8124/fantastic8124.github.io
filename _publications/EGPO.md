@@ -15,7 +15,7 @@ venue: '(submit) Transportation Research Part C: Emerging Technologies'
     <figcaption style="text-align: center; margin-top: 5px;">Vaniila MARL.</figcaption>
   </figure>
   <figure style="margin: 0 10px;">
-    <img src="https://github.com/user-attachments/assets/20f3b7cb-461f-4800-90aa-9b8fef354c1d" alt="Baseline" style="width: 95%; margin-bottom: 0;" />
+    <img src="https://github.com/user-attachments/assets/099d4ba2-3a00-4e52-a7f7-efb302863981" alt="Baseline" style="width: 95%; margin-bottom: 0;" />
     <figcaption style="text-align: center; margin-top: 5px;">EGPO.</figcaption>
   </figure>
 </div>
@@ -23,7 +23,6 @@ venue: '(submit) Transportation Research Part C: Emerging Technologies'
 The safe deployment of autonomous vehicles (AVs) into real-world traffic requires robust interaction with human drivers exhibiting heterogeneous behavioral tendencies, spanning from rational cooperation to adversarial aggression. Existing methods often lack the capacity to systematically model such behavioral diversity, limiting their applicability for rigorous evaluation of AV. 
 To address this challenge, we propose a multi-agent reinforcement learning (MARL) framework that generates diverse interactive traffic through Estimation-Guided Policy Optimization (EGPO). Central to EGPO is the Equilibrium Value Estimation (EVE), a learnable hyperparameter that weights the outputs of the rational value function and the adversarial value function, reconstructing the policy's estimation of the expected reward. Notably, EVE is globally updated using meta-learning during policy learning. Furthermore, an EVE-guided policy network is used to feature multi-head architectures that efficiently process high-dimensional multi-agent observations while dynamically prioritizing context-specific features aligned with the learned EVEs.
 Extensive experiments conducted in both urban and highway scenarios demonstrate that EGPO produces traffic environments with enhanced behavioral controllability and diversity. Furthermore, EGPO excels in the closed-loop AV testing on OnSite benchmark, outperforming SOTA methods based on deep learning and rule-based methods in terms of both realism and testing efficiency. Overall, EGPO offers a scalable and robust solution for simulating realistic interactions among diverse driving tendencies, facilitating the development of AV systems capable of handling complex real-world corner cases.
-
 
 <div align="center"><strong>Closed-Loop Test with EGPO on OnSite benchmark</strong></div>
 
@@ -33,29 +32,29 @@ Extensive experiments conducted in both urban and highway scenarios demonstrate 
     <figcaption style="text-align: center; margin-top: 5px;">Scenario 1: 1521cutin85.</figcaption>
   </figure>
   <figure style="margin: 0 10px;">
-    <img src="https://github.com/user-attachments/assets/20f3b7cb-461f-4800-90aa-9b8fef354c1d" alt="Baseline" style="width: 95%; margin-bottom: 0;" />
+    <img src="https://github.com/user-attachments/assets/54beab72-a039-4bbf-9bd8-4f536678f537" alt="Baseline" style="width: 95%; margin-bottom: 0;" />
     <figcaption style="text-align: center; margin-top: 5px;">Scenario 2: 1455lanechanging46.</figcaption>
   </figure>
 </div>
 
 <div style="display: flex; justify-content: space-around; align-items: flex-start;">
   <figure style="margin: 0 10px;">
-    <img src="https://github.com/user-attachments/assets/f227075d-fe9c-4188-827c-49ab8c1b1294" alt="Proposed" style="width: 95%; margin-bottom: 0;" />
+    <img src="(https://github.com/user-attachments/assets/7a35eb0f-4a2c-4524-83de-6ce10ee28a28" alt="Proposed" style="width: 95%; margin-bottom: 0;" />
     <figcaption style="text-align: center; margin-top: 5px;">Scenario 3: 0_36_straight_straight_39.</figcaption>
   </figure>
   <figure style="margin: 0 10px;">
-    <img src="https://github.com/user-attachments/assets/0129f799-7850-4728-9246-422d1a9618c5" alt="Baseline" style="width: 95%; margin-bottom: 0;" />
+    <img src="https://github.com/user-attachments/assets/0d0d404b-b727-4b45-8ed9-92c4da6c62d7" alt="Baseline" style="width: 95%; margin-bottom: 0;" />
     <figcaption style="text-align: center; margin-top: 5px;">Scenario 4: 13_117_straight_in_adjacent_left_119.</figcaption>
   </figure>
 </div>
 
 <div style="display: flex; justify-content: space-around; align-items: flex-start;">
   <figure style="margin: 0 10px;">
-    <img src="https://github.com/user-attachments/assets/413a8751-6e29-4725-8be0-fae7c380d94d" alt="Proposed" style="width: 95%; margin-bottom: 0;" />
+    <img src="https://github.com/user-attachments/assets/351da1d2-7c72-4cec-9f27-f391196de487" alt="Proposed" style="width: 95%; margin-bottom: 0;" />
     <figcaption style="text-align: center; margin-top: 5px;">Scenario 5: _0_76_merge_82.</figcaption>
   </figure>
   <figure style="margin: 0 10px;">
-    <img src="https://github.com/user-attachments/assets/8d962cc1-0ff8-4e5d-b26d-bdcef0226fc6" alt="Baseline" style="width: 95%; margin-bottom: 0;" />
+    <img src="https://github.com/user-attachments/assets/56b319d7-cf67-4d9c-905b-f9c0bcceb742" alt="Baseline" style="width: 95%; margin-bottom: 0;" />
     <figcaption style="text-align: center; margin-top: 5px;">Scenario 6: 0_879_merge_895.</figcaption>
   </figure>
 </div>
