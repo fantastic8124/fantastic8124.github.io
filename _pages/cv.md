@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-![3](https://github.com/user-attachments/assets/e114adb6-786c-4063-8d57-c0c0dd7b1731)
+![2](https://github.com/user-attachments/assets/486831f9-ac07-4660-8677-4e218c9f1f44)
 
 Education
 ======
