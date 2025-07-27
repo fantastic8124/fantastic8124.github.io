@@ -8,4 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of the website to be further completed.
+![2](https://github.com/user-attachments/assets/380155d1-a5c9-480c-a02c-ccd89f27f27f)
+
