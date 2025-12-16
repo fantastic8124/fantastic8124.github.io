@@ -3,7 +3,7 @@ title: "Transferring Causal Driving Patterns for Generalizable Traffic Simulatio
 collection: publications
 permalink: /publication/CDPT
 date: 2025-07-26
-venue: '(submit) AAAI 2026'
+venue: 'AAAI 2026'
 ---
 <p style="font-size:small; line-height:1;"> Yuhang Chen<sup style="font-size:smaller;">1,2</sup>, Jie Sun<sup style="font-size:smaller;">1,2</sup>, Jialin Fan<sup style="font-size:smaller;">1,2</sup>, and Jian Sun<sup style="font-size:smaller;">1,2</sup></p>
 <p style="font-size:small; line-height:1;"><sup style="font-size:smaller;">1</sup> College of Transportation, Tongji University, Shanghai, China</p>
