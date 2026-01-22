@@ -11,7 +11,7 @@ venue: '(submit) IEEE Transactions on Intelligent Transportation Systems'
 
 <figure style="margin: 0 10px;">
     <img src="https://github.com/user-attachments/assets/ba12ec9d-1cad-4642-ba08-1f0ec49c1f02" alt="Proposed" style="width: 95%; margin-bottom: 0;" />
-    <figcaption style="text-align: center; margin-top: 5px;">Vaniila MARL.</figcaption>
+    <figcaption style="text-align: center; margin-top: 5px;">EGPO Pipline.</figcaption>
 </figure>
 
 Optimizing multi-agent behaviors with Equilibrium Value Estimation (EVE) to strengthen autonomous vehicle testing. (a) We construct a closedloop, agent-based reinforcement learning framework in which smart test agents are trained by interacting with the environment, while their diverse interaction behaviors are meta-learned through the EVE mechanism to support AV testing. (b) By tuning the EVE parameter, EGPO can controllably generate multi-modal driving behaviors that expose AVs to a broad spectrum of realistic and safety-critical scenarios. (c) Compared with log-replay methods that reproduce diverse but non-interactive trajectories, and rule-based controllers that yield interactive yet overly compliant and homogeneous behaviors, EGPO jointly achieves both interactivity and behavioral diversity in zero-shot testing.
