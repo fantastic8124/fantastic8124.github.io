@@ -2,8 +2,8 @@
 title: "Optimizing Multi-agent Behavior for Interactive Autonomous Driving with Equilibrium Value Estimation"
 collection: publications
 permalink: /publication/EGPO
-date: 2025-07-25
-venue: '(submit) Transportation Research Part C: Emerging Technologies'
+date: 2026-01-21
+venue: '(submit) IEEE Transactions on Intelligent Transportation Systems'
 ---
 <p style="font-size:small; line-height:1;">Jialin Fan<sup style="font-size:smaller;">1,2</sup>, Ying Ni<sup style="font-size:smaller;">1,2</sup>, Yujia Zhao<sup style="font-size:smaller;">1,2</sup>, Jie Sun<sup style="font-size:smaller;">1,2</sup>, and Jian Sun<sup style="font-size:smaller;">1,2</sup></p>
 <p style="font-size:small; line-height:1;"><sup style="font-size:smaller;">1</sup> College of Transportation, Tongji University, Shanghai, China</p>
