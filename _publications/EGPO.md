@@ -8,9 +8,12 @@ venue: '(submit) IEEE Transactions on Intelligent Transportation Systems'
 <p style="font-size:small; line-height:1;">Jialin Fan<sup style="font-size:smaller;">1,2</sup>, Ying Ni<sup style="font-size:smaller;">1,2</sup>, Yujia Zhao<sup style="font-size:smaller;">1,2</sup>, Jie Sun<sup style="font-size:smaller;">1,2</sup>, and Jian Sun<sup style="font-size:smaller;">1,2</sup></p>
 <p style="font-size:small; line-height:1;"><sup style="font-size:smaller;">1</sup> College of Transportation, Tongji University, Shanghai, China</p>
 <p style="font-size:small; line-height:1;"><sup style="font-size:smaller;">2</sup> Key Laboratory of Road and Traffic Engineering, Ministry of Education, Shanghai, China</p>
-![1](https://github.com/user-attachments/assets/ba12ec9d-1cad-4642-ba08-1f0ec49c1f02)
-![image](https://github.com/user-attachments/assets/4086b256-5205-49b0-a771-8711a5761f8c)
 
+<figure style="margin: 0 10px;">
+    <img src="https://github.com/user-attachments/assets/ba12ec9d-1cad-4642-ba08-1f0ec49c1f02" alt="Proposed" style="width: 95%; margin-bottom: 0;" />
+    <figcaption style="text-align: center; margin-top: 5px;">Vaniila MARL.</figcaption>
+</figure>
+  
 <div style="display: flex; justify-content: space-around; align-items: flex-start;">
   <figure style="margin: 0 10px;">
     <img src="https://github.com/user-attachments/assets/43c9533e-a7b5-4a8c-a507-a4e5c389b6aa" alt="Proposed" style="width: 95%; margin-bottom: 0;" />
