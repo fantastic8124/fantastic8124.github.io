@@ -11,7 +11,7 @@ venue: '(submit) IEEE Transactions on Intelligent Transportation Systems'
 
 <div style="display: flex; justify-content: space-around; align-items: flex-start;">
   <figure style="margin: 0 10px;">
-    <img src="https://github.com/user-attachments/assets/9bdcb231-ca15-4f7a-a0cb-a9cb93279124" alt="Proposed" style="width: 95%; margin-bottom: 0;" />
+    <img src="https://github.com/user-attachments/assets/43c9533e-a7b5-4a8c-a507-a4e5c389b6aa" alt="Proposed" style="width: 95%; margin-bottom: 0;" />
     <figcaption style="text-align: center; margin-top: 5px;">Vaniila MARL.</figcaption>
   </figure>
   <figure style="margin: 0 10px;">
