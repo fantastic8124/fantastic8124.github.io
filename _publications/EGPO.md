@@ -15,7 +15,7 @@ venue: '(submit) IEEE Transactions on Intelligent Transportation Systems'
     <figcaption style="text-align: center; margin-top: 5px;">Vaniila MARL.</figcaption>
   </figure>
   <figure style="margin: 0 10px;">
-    <img src="https://github.com/user-attachments/assets/099d4ba2-3a00-4e52-a7f7-efb302863981" alt="Baseline" style="width: 95%; margin-bottom: 0;" />
+    <img src="https://github.com/user-attachments/assets/5150ae21-3d21-4319-87c0-bea164e76763" alt="Baseline" style="width: 95%; margin-bottom: 0;" />
     <figcaption style="text-align: center; margin-top: 5px;">EGPO.</figcaption>
   </figure>
 </div>
