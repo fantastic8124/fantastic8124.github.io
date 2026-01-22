@@ -13,7 +13,9 @@ venue: '(submit) IEEE Transactions on Intelligent Transportation Systems'
     <img src="https://github.com/user-attachments/assets/ba12ec9d-1cad-4642-ba08-1f0ec49c1f02" alt="Proposed" style="width: 95%; margin-bottom: 0;" />
     <figcaption style="text-align: center; margin-top: 5px;">Vaniila MARL.</figcaption>
 </figure>
-  
+
+Optimizing multi-agent behaviors with Equilibrium Value Estimation (EVE) to strengthen autonomous vehicle testing. (a) We construct a closedloop, agent-based reinforcement learning framework in which smart test agents are trained by interacting with the environment, while their diverse interaction behaviors are meta-learned through the EVE mechanism to support AV testing. (b) By tuning the EVE parameter, EGPO can controllably generate multi-modal driving behaviors that expose AVs to a broad spectrum of realistic and safety-critical scenarios. (c) Compared with log-replay methods that reproduce diverse but non-interactive trajectories, and rule-based controllers that yield interactive yet overly compliant and homogeneous behaviors, EGPO jointly achieves both interactivity and behavioral diversity in zero-shot testing.
+
 <div style="display: flex; justify-content: space-around; align-items: flex-start;">
   <figure style="margin: 0 10px;">
     <img src="https://github.com/user-attachments/assets/43c9533e-a7b5-4a8c-a507-a4e5c389b6aa" alt="Proposed" style="width: 95%; margin-bottom: 0;" />
@@ -24,10 +26,6 @@ venue: '(submit) IEEE Transactions on Intelligent Transportation Systems'
     <figcaption style="text-align: center; margin-top: 5px;">EGPO.</figcaption>
   </figure>
 </div>
-
-The safe deployment of autonomous vehicles (AVs) into real-world traffic requires robust interaction with human drivers exhibiting heterogeneous behavioral tendencies, spanning from rational cooperation to adversarial aggression. Existing methods often lack the capacity to systematically model such behavioral diversity, limiting their applicability for rigorous evaluation of AV. 
-To address this challenge, we propose a multi-agent reinforcement learning (MARL) framework that generates diverse interactive traffic through Estimation-Guided Policy Optimization (EGPO). Central to EGPO is the Equilibrium Value Estimation (EVE), a learnable hyperparameter that weights the outputs of the rational value function and the adversarial value function, reconstructing the policy's estimation of the expected reward. Notably, EVE is globally updated using meta-learning during policy learning. Furthermore, an EVE-guided policy network is used to feature multi-head architectures that efficiently process high-dimensional multi-agent observations while dynamically prioritizing context-specific features aligned with the learned EVEs.
-Extensive experiments conducted in both urban and highway scenarios demonstrate that EGPO produces traffic environments with enhanced behavioral controllability and diversity. Furthermore, EGPO excels in the closed-loop AV testing on OnSite benchmark, outperforming SOTA methods based on deep learning and rule-based methods in terms of both realism and testing efficiency. Overall, EGPO offers a scalable and robust solution for simulating realistic interactions among diverse driving tendencies, facilitating the development of AV systems capable of handling complex real-world corner cases.
 
 <div align="center"><strong>Closed-Loop Test with EGPO on OnSite benchmark</strong></div>
 
