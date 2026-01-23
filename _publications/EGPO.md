@@ -15,49 +15,31 @@ venue: '(submit) IEEE Transactions on Intelligent Transportation Systems'
 </figure>
 
 Optimizing multi-agent behaviors with Equilibrium Value Estimation (EVE) to strengthen autonomous vehicle testing. (a) We construct a closedloop, agent-based reinforcement learning framework in which smart test agents are trained by interacting with the environment, while their diverse interaction behaviors are meta-learned through the EVE mechanism to support AV testing. (b) By tuning the EVE parameter, EGPO can controllably generate multi-modal driving behaviors that expose AVs to a broad spectrum of realistic and safety-critical scenarios. (c) Compared with log-replay methods that reproduce diverse but non-interactive trajectories, and rule-based controllers that yield interactive yet overly compliant and homogeneous behaviors, EGPO jointly achieves both interactivity and behavioral diversity in zero-shot testing.
+![ind3_0 3](https://github.com/user-attachments/assets/8ee19dba-9a34-41a0-89f9-f9ac450d4dea)
+![ind3_0 5](https://github.com/user-attachments/assets/982c70d4-d6f1-43be-a3e6-b5ef7f44a29b)
+![ind3_0 7](https://github.com/user-attachments/assets/d3735bd5-1d52-4a58-ab26-a89c955b2241)
+![ind3_0 8a](https://github.com/user-attachments/assets/1cf05f38-d8c2-4961-a83a-8bbcd0bfbe40)
 
 <div style="display: flex; justify-content: space-around; align-items: flex-start;">
   <figure style="margin: 0 10px;">
-    <img src="https://github.com/user-attachments/assets/43c9533e-a7b5-4a8c-a507-a4e5c389b6aa" alt="Proposed" style="width: 95%; margin-bottom: 0;" />
+    <img src="https://github.com/user-attachments/assets/8ee19dba-9a34-41a0-89f9-f9ac450d4dea" alt="Case#1" style="width: 95%; margin-bottom: 0;" />
     <figcaption style="text-align: center; margin-top: 5px;">Vaniila MARL.</figcaption>
   </figure>
   <figure style="margin: 0 10px;">
-    <img src="https://github.com/user-attachments/assets/5150ae21-3d21-4319-87c0-bea164e76763" alt="Baseline" style="width: 95%; margin-bottom: 0;" />
+    <img src="https://github.com/user-attachments/assets/982c70d4-d6f1-43be-a3e6-b5ef7f44a29b" alt="Case#2" style="width: 95%; margin-bottom: 0;" />
     <figcaption style="text-align: center; margin-top: 5px;">EGPO.</figcaption>
   </figure>
 </div>
 
-<div align="center"><strong>Closed-Loop Test with EGPO on OnSite benchmark</strong></div>
-
 <div style="display: flex; justify-content: space-around; align-items: flex-start;">
   <figure style="margin: 0 10px;">
-    <img src="https://github.com/user-attachments/assets/ed216edf-0b2d-4ba4-962c-45c656c25c54" alt="Proposed" style="width: 95%; margin-bottom: 0;" />
-    <figcaption style="text-align: center; margin-top: 5px;">Scenario 1: 1521cutin85.</figcaption>
+    <img src="https://github.com/user-attachments/assets/d3735bd5-1d52-4a58-ab26-a89c955b2241" alt="Case#3" style="width: 95%; margin-bottom: 0;" />
+    <figcaption style="text-align: center; margin-top: 5px;">Vaniila MARL.</figcaption>
   </figure>
   <figure style="margin: 0 10px;">
-    <img src="https://github.com/user-attachments/assets/54beab72-a039-4bbf-9bd8-4f536678f537" alt="Baseline" style="width: 95%; margin-bottom: 0;" />
-    <figcaption style="text-align: center; margin-top: 5px;">Scenario 2: 1455lanechanging46.</figcaption>
+    <img src="https://github.com/user-attachments/assets/1cf05f38-d8c2-4961-a83a-8bbcd0bfbe40" alt="Case#4" style="width: 95%; margin-bottom: 0;" />
+    <figcaption style="text-align: center; margin-top: 5px;">EGPO.</figcaption>
   </figure>
 </div>
 
-<div style="display: flex; justify-content: space-around; align-items: flex-start;">
-  <figure style="margin: 0 10px;">
-    <img src="https://github.com/user-attachments/assets/b479b66b-e9d5-4c63-bf3e-37a27a98acbb" alt="Proposed" style="width: 95%; margin-bottom: 0;" />
-    <figcaption style="text-align: center; margin-top: 5px;">Scenario 3: 0_36_straight_straight_39.</figcaption>
-  </figure>
-  <figure style="margin: 0 10px;">
-    <img src="https://github.com/user-attachments/assets/0d0d404b-b727-4b45-8ed9-92c4da6c62d7" alt="Baseline" style="width: 95%; margin-bottom: 0;" />
-    <figcaption style="text-align: center; margin-top: 5px;">Scenario 4: 13_117_straight_in_adjacent_left_119.</figcaption>
-  </figure>
-</div>
 
-<div style="display: flex; justify-content: space-around; align-items: flex-start;">
-  <figure style="margin: 0 10px;">
-    <img src="https://github.com/user-attachments/assets/351da1d2-7c72-4cec-9f27-f391196de487" alt="Proposed" style="width: 95%; margin-bottom: 0;" />
-    <figcaption style="text-align: center; margin-top: 5px;">Scenario 5: _0_76_merge_82.</figcaption>
-  </figure>
-  <figure style="margin: 0 10px;">
-    <img src="https://github.com/user-attachments/assets/56b319d7-cf67-4d9c-905b-f9c0bcceb742" alt="Baseline" style="width: 95%; margin-bottom: 0;" />
-    <figcaption style="text-align: center; margin-top: 5px;">Scenario 6: 0_879_merge_895.</figcaption>
-  </figure>
-</div>
