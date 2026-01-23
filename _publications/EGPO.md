@@ -198,7 +198,7 @@ venue: '(Under Review) IEEE Transactions on Intelligent Transportation Systems'
     </div>
   </div>
 
-  <h3 style="text-align: center; margin-top: 50px; margin-bottom: 20px;">Scaling Self-play</h3>
+  <h3 style="text-align: center; margin-top: 50px; margin-bottom: 20px;">Scalling Self-play</h3>
   <div class="results-grid">
     <div class="grid-item">
       <img src="https://github.com/user-attachments/assets/f4c6ff98-0b49-4707-a33b-633b4b52ea8b" style="width: 100%; border-radius: 5px;">
