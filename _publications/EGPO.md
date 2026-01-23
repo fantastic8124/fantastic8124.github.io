@@ -18,6 +18,17 @@ Optimizing multi-agent behaviors with Equilibrium Value Estimation (EVE) to stre
 
 <div style="display: flex; justify-content: space-around; align-items: flex-start;">
   <figure style="margin: 0 10px;">
+    <img src="https://github.com/user-attachments/assets/9fcd383a-f7be-4ffa-a465-8182afec1dbc" alt="Case#1" style="width: 95%; margin-bottom: 0;" />
+    <figcaption style="text-align: center; margin-top: 5px;">vanilla methods.</figcaption>
+  </figure>
+  <figure style="margin: 0 10px;">
+    <img src="https://github.com/user-attachments/assets/514bac10-ad3a-4304-8b55-076e6e5a1c6d" alt="Case#2" style="width: 95%; margin-bottom: 0;" />
+    <figcaption style="text-align: center; margin-top: 5px;">EGPO.</figcaption>
+  </figure>
+</div>
+
+<div style="display: flex; justify-content: space-around; align-items: flex-start;">
+  <figure style="margin: 0 10px;">
     <img src="https://github.com/user-attachments/assets/8ee19dba-9a34-41a0-89f9-f9ac450d4dea" alt="Case#1" style="width: 95%; margin-bottom: 0;" />
     <figcaption style="text-align: center; margin-top: 5px;">Case#1.</figcaption>
   </figure>
