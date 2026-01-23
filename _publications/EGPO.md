@@ -15,30 +15,26 @@ venue: '(submit) IEEE Transactions on Intelligent Transportation Systems'
 </figure>
 
 Optimizing multi-agent behaviors with Equilibrium Value Estimation (EVE) to strengthen autonomous vehicle testing. (a) We construct a closedloop, agent-based reinforcement learning framework in which smart test agents are trained by interacting with the environment, while their diverse interaction behaviors are meta-learned through the EVE mechanism to support AV testing. (b) By tuning the EVE parameter, EGPO can controllably generate multi-modal driving behaviors that expose AVs to a broad spectrum of realistic and safety-critical scenarios. (c) Compared with log-replay methods that reproduce diverse but non-interactive trajectories, and rule-based controllers that yield interactive yet overly compliant and homogeneous behaviors, EGPO jointly achieves both interactivity and behavioral diversity in zero-shot testing.
-![ind3_0 3](https://github.com/user-attachments/assets/8ee19dba-9a34-41a0-89f9-f9ac450d4dea)
-![ind3_0 5](https://github.com/user-attachments/assets/982c70d4-d6f1-43be-a3e6-b5ef7f44a29b)
-![ind3_0 7](https://github.com/user-attachments/assets/d3735bd5-1d52-4a58-ab26-a89c955b2241)
-![ind3_0 8a](https://github.com/user-attachments/assets/1cf05f38-d8c2-4961-a83a-8bbcd0bfbe40)
 
 <div style="display: flex; justify-content: space-around; align-items: flex-start;">
   <figure style="margin: 0 10px;">
     <img src="https://github.com/user-attachments/assets/8ee19dba-9a34-41a0-89f9-f9ac450d4dea" alt="Case#1" style="width: 95%; margin-bottom: 0;" />
-    <figcaption style="text-align: center; margin-top: 5px;">Vaniila MARL.</figcaption>
+    <figcaption style="text-align: center; margin-top: 5px;">Case#1.</figcaption>
   </figure>
   <figure style="margin: 0 10px;">
     <img src="https://github.com/user-attachments/assets/982c70d4-d6f1-43be-a3e6-b5ef7f44a29b" alt="Case#2" style="width: 95%; margin-bottom: 0;" />
-    <figcaption style="text-align: center; margin-top: 5px;">EGPO.</figcaption>
+    <figcaption style="text-align: center; margin-top: 5px;">Case#2.</figcaption>
   </figure>
 </div>
 
 <div style="display: flex; justify-content: space-around; align-items: flex-start;">
   <figure style="margin: 0 10px;">
     <img src="https://github.com/user-attachments/assets/d3735bd5-1d52-4a58-ab26-a89c955b2241" alt="Case#3" style="width: 95%; margin-bottom: 0;" />
-    <figcaption style="text-align: center; margin-top: 5px;">Vaniila MARL.</figcaption>
+    <figcaption style="text-align: center; margin-top: 5px;">Case#3.</figcaption>
   </figure>
   <figure style="margin: 0 10px;">
     <img src="https://github.com/user-attachments/assets/1cf05f38-d8c2-4961-a83a-8bbcd0bfbe40" alt="Case#4" style="width: 95%; margin-bottom: 0;" />
-    <figcaption style="text-align: center; margin-top: 5px;">EGPO.</figcaption>
+    <figcaption style="text-align: center; margin-top: 5px;">Case#4.</figcaption>
   </figure>
 </div>
 
