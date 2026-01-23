@@ -182,31 +182,31 @@ venue: '(Under Review) IEEE Transactions on Intelligent Transportation Systems'
   <div class="results-grid">
     <div class="grid-item">
       <img src="https://github.com/user-attachments/assets/8ee19dba-9a34-41a0-89f9-f9ac450d4dea" style="width: 100%; border-radius: 5px;">
-      <div class="grid-caption">Case #1: Aggressive Cut-in</div>
+      <div class="grid-caption">Case #1</div>
     </div>
     <div class="grid-item">
       <img src="https://github.com/user-attachments/assets/982c70d4-d6f1-43be-a3e6-b5ef7f44a29b" style="width: 100%; border-radius: 5px;">
-      <div class="grid-caption">Case #2: Merging Conflict</div>
+      <div class="grid-caption">Case #2</div>
     </div>
     <div class="grid-item">
       <img src="https://github.com/user-attachments/assets/d3735bd5-1d52-4a58-ab26-a89c955b2241" style="width: 100%; border-radius: 5px;">
-      <div class="grid-caption">Case #3: Intersection Negotiation</div>
+      <div class="grid-caption">Case #3</div>
     </div>
     <div class="grid-item">
       <img src="https://github.com/user-attachments/assets/1cf05f38-d8c2-4961-a83a-8bbcd0bfbe40" style="width: 100%; border-radius: 5px;">
-      <div class="grid-caption">Case #4: Roundabout</div>
+      <div class="grid-caption">Case #4</div>
     </div>
   </div>
 
-  <h3 style="text-align: center; margin-top: 50px; margin-bottom: 20px;">Long-term Self-play</h3>
+  <h3 style="text-align: center; margin-top: 50px; margin-bottom: 20px;">Scaling Self-play</h3>
   <div class="results-grid">
     <div class="grid-item">
       <img src="https://github.com/user-attachments/assets/f4c6ff98-0b49-4707-a33b-633b4b52ea8b" style="width: 100%; border-radius: 5px;">
-      <div class="grid-caption">Case #5</div>
+      <div class="grid-caption">Case #5： Urban road interchange</div>
     </div>
     <div class="grid-item">
       <img src="https://github.com/user-attachments/assets/513adbcd-4dd2-47f9-8529-9316e711788b" style="width: 100%; border-radius: 5px;">
-      <div class="grid-caption">Case #6</div>
+      <div class="grid-caption">Case #6: Urban expressway</div>
     </div>
   </div>
 
