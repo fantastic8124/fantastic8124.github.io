@@ -126,11 +126,11 @@ venue: '(Under Review) IEEE Transactions on Intelligent Transportation Systems'
 <div class="page-content">
 
   <div class="author-block">
-    <span>Jialin Fan<sup>1,2</sup></span>, 
-    <span>Ying Ni<sup>1,2</sup></span>, 
-    <span>Yujia Zhao<sup>1,2</sup></span>, 
-    <span>Jie Sun<sup>1,2</sup></span>, 
-    <span>Jian Sun<sup>1,2</sup></span>
+    <a href="#" class="author-link">Jialin Fan</a><sup>1,2</sup>, 
+    <a href="#" class="author-link">Ying Ni</a><sup>1,2</sup>, 
+    <a href="#" class="author-link">Yujia Zhao</a><sup>1,2</sup>, 
+    <a href="#" class="author-link">Jie Sun</a><sup>1,2</sup>, 
+    <a href="#" class="author-link">Jian Sun</a><sup>1,2</sup>
   </div>
 
   <div class="affiliation-block">
