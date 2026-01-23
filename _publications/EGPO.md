@@ -49,4 +49,14 @@ Optimizing multi-agent behaviors with Equilibrium Value Estimation (EVE) to stre
   </figure>
 </div>
 
-
+Long-term cases with self-play EGPO smart agents
+<div style="display: flex; justify-content: space-around; align-items: flex-start;">
+  <figure style="margin: 0 10px;">
+    <img src="https://github.com/user-attachments/assets/8e3dfba4-b32f-4679-a89b-d2ec4577b17" alt="Case#5" style="width: 95%; margin-bottom: 0;" />
+    <figcaption style="text-align: center; margin-top: 5px;">Case#3.</figcaption>
+  </figure>
+  <figure style="margin: 0 10px;">
+    <img src="https://github.com/user-attachments/assets/513adbcd-4dd2-47f9-8529-9316e711788b" alt="Case#6" style="width: 95%; margin-bottom: 0;" />
+    <figcaption style="text-align: center; margin-top: 5px;">Case#4.</figcaption>
+  </figure>
+</div>
