@@ -29,6 +29,16 @@ venue: '(Under Review) IEEE Transactions on Intelligent Transportation Systems'
     font-size: 1.15rem;
     margin-bottom: 5px;
   }
+  .author-link {
+    color: #4285f4; /* 谷歌蓝/浅蓝色 */
+    text-decoration: none; /* 默认无下划线 */
+    font-weight: 500;
+    transition: color 0.3s;
+  }
+  .author-link:hover {
+    color: #1a0dab; /* 悬停时稍微变深 */
+    text-decoration: underline;
+  }
   .affiliation-block {
     text-align: center;
     font-size: 0.95rem;
