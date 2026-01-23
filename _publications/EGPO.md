@@ -115,8 +115,6 @@ venue: '(Under Review) IEEE Transactions on Intelligent Transportation Systems'
 
 <div class="page-content">
 
-  <h1 class="title">Optimizing Multi-agent Behavior for Interactive Autonomous Driving with Equilibrium Value Estimation</h1>
-
   <div class="author-block">
     <span>Jialin Fan<sup>1,2</sup></span>, 
     <span>Ying Ni<sup>1,2</sup></span>, 
