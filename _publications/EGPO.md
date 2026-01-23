@@ -86,11 +86,11 @@ venue: '(Under Review) IEEE Transactions on Intelligent Transportation Systems'
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
     <div style="flex: 1; min-width: 300px; text-align: center;">
         <img src="https://github.com/user-attachments/assets/f4c6ff98-0b49-4707-a33b-633b4b52ea8b" style="width: 100%; border-radius: 4px;">
-        <div style="margin-top: 5px;">Case #5</div>
+        <div style="margin-top: 5px;">Case #5 Urban overpasses and intersections(</div>
     </div>
     <div style="flex: 1; min-width: 300px; text-align: center;">
         <img src="https://github.com/user-attachments/assets/513adbcd-4dd2-47f9-8529-9316e711788b" style="width: 100%; border-radius: 4px;">
-        <div style="margin-top: 5px;">Case #6</div>
+        <div style="margin-top: 5px;">Case #6 urban expressway</div>
     </div>
 </div>
 
