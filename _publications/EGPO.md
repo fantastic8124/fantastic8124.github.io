@@ -18,7 +18,7 @@ venue: '(Under Review) IEEE Transactions on Intelligent Transportation Systems'
     <div style="margin-top: 15px;">
         <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5367491" style="display: inline-block; padding: 5px 10px; margin: 0 5px; border: 1px solid #333; border-radius: 4px; text-decoration: none; color: #333; font-size: 0.9em;">📄 Paper (PDF)</a>
         <a href="#" style="display: inline-block; padding: 5px 10px; margin: 0 5px; border: 1px solid #333; border-radius: 4px; text-decoration: none; color: #333; font-size: 0.9em;">💻 Code (GitHub, coming soon)</a>
-        <a href="https://www.onsite.com.cn/#/dist/home" style="display: inline-block; padding: 5px 10px; margin: 0 5px; border: 1px solid #333; border-radius: 4px; text-decoration: none; color: #333; font-size: 0.9em;">🎥 OnSite Challenge</a>
+        <a href="https://www.onsite.com.cn/#/dist/home" style="display: inline-block; padding: 5px 10px; margin: 0 5px; border: 1px solid #333; border-radius: 4px; text-decoration: none; color: #333; font-size: 0.9em;">🚗 OnSite Challenge</a>
     </div>
 </div>
 
