@@ -54,7 +54,7 @@ Long-term cases with self-play EGPO smart agents
 
 <div style="display: flex; justify-content: space-around; align-items: flex-start;">
   <figure style="margin: 0 10px;">
-    <img src="https://github.com/user-attachments/assets/8e3dfba4-b32f-4679-a89b-d2ec4577b17" alt="Case#5" style="width: 95%; margin-bottom: 0;" />
+    <img src="https://github.com/user-attachments/assets/f4c6ff98-0b49-4707-a33b-633b4b52ea8b" alt="Case#5" style="width: 95%; margin-bottom: 0;" />
     <figcaption style="text-align: center; margin-top: 5px;">Case#5.</figcaption>
   </figure>
   <figure style="margin: 0 10px;">
